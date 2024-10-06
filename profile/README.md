@@ -10,3 +10,8 @@ We are passionate about sailing and helping our fellow sailors to simplify their
 ### Project Home
 
 https://bareboat-necessities.github.io/
+
+### Bareboat Necessities OS
+
+https://bareboat-necessities.github.io/my-bareboat/bareboat-os.html
+
